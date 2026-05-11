@@ -106,7 +106,8 @@ Run `index.html` in your browser.
 
 ## 📸 Preview
 
-Add screenshots of the project here.
+open link: 
+`https://aboelhareth.github.io/Search-Engine/`
 
 ---
 
