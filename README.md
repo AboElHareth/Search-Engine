@@ -45,6 +45,10 @@ The project processes and indexes text documents using Python scripts, then perf
 * Regular Expressions
 * Search Highlighting
 
+## Note
+
+Large dataset and generated JSON index files are excluded from the repository due to size limitations.
+
 ---
 
 ## 📂 Project Structure
