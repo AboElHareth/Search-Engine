@@ -101,18 +101,3 @@ Run `index.html` in your browser.
 * Add dark mode
 * Connect to a real database
 * Add search suggestions
-
----
-
-## 📸 Preview
-
-open link: 
-```bash
-https://aboelhareth.github.io/Search-Engine/
-```
-
----
-
-## 👨‍💻 Author
-
-Developed by Mohamed Ali
