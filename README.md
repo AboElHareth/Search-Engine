@@ -107,7 +107,9 @@ Run `index.html` in your browser.
 ## 📸 Preview
 
 open link: 
-`https://aboelhareth.github.io/Search-Engine/`
+```bash
+https://aboelhareth.github.io/Search-Engine/
+```
 
 ---
 
